@@ -1,0 +1,46 @@
+.assignment-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px; /* Add spacing between rows */
+  margin: 5px;
+}
+
+.assignment-item {
+  display: flex;
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  padding: 3px;
+  border: none; /* Optional border for clarity */
+  background-color: transparent; /* Optional background color */
+}
+
+.assignment-name {
+  font-size: 16px;
+}
+
+
+
+.no-file {
+  font-size: 14px;
+  color: gray;
+}
+
+
+.btn1{
+  padding: 5px 10px;
+  font-size: 14px;
+  border: none;
+  background-color: transparent;
+  color: blue;
+}
+.box{
+  display: flex;
+  margin: 15px;
+}
+
+.card-title{
+  color: black;
+}
+
+
+

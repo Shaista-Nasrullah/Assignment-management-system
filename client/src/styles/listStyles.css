@@ -1,0 +1,33 @@
+.cover{
+  width: auto;
+  height: auto;
+  margin-bottom: 20px;
+}
+.ul-list{
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  
+}
+.list{
+  background-color: orange;
+  color: black;
+  width: 200px;
+  height: auto;
+  text-align: left;
+  padding: 10px;
+  border: 1px solid black;
+}
+.list:hover{
+  background-color: rgb(207, 169, 98);
+}
+
+.covers{
+  height: auto;
+  width: auto;
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+  border: 1px solid black;
+}
